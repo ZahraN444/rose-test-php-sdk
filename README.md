@@ -12,19 +12,19 @@ Find out more about Swagger: [http://swagger.io](http://swagger.io)
 Run the following command to install the package and automatically add the dependency to your composer.json file:
 
 ```bash
-composer require "zahra/rose-test-sdk:0.0.9"
+composer require "zahra-mapping/rose-test-sdk:0.0.9"
 ```
 
 Or add it to the composer.json file manually as given below:
 
 ```json
 "require": {
-    "zahra/rose-test-sdk": "0.0.9"
+    "zahra-mapping/rose-test-sdk": "0.0.9"
 }
 ```
 
 You can also view the package at:
-https://packagist.org/packages/zahra/rose-test-sdk#0.0.9
+https://packagist.org/packages/zahra-mapping/rose-test-sdk#0.0.9
 
 ## Test the SDK
 
